@@ -1,1 +1,1 @@
-# Lab_Pengantar_Pemrograman_2020
+# Lab Pengantar Pemrograman 2020
